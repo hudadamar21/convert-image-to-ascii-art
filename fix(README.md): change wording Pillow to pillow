@@ -25,11 +25,11 @@ oleh karena itu harus menginstall python dan beberapa packagenya, seperti beriku
 
     `pip install tk`
 
-3. install package Pillow.
+3. install package pillow.
     
     Pillow adalah package untuk mengelola/memodifikasi sebuah gambar
 
-    `pip install Pillow`
+    `pip install pillow`
 
 ---
 
